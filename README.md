@@ -7,3 +7,6 @@ mkdir
 
 cp
 : a command that is used to copy files or directories
+
+pwd
+: a command that prints the path of the working directory
