@@ -10,3 +10,6 @@ cp
 
 pwd
 : a command that prints the path of the working directory
+
+mv
+: a command that moves files to a different location
