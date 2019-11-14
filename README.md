@@ -16,3 +16,6 @@ mv
 
 rm
 : a command that removes files from the system
+
+history
+: a command that is used to view the previously executed command
