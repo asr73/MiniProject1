@@ -13,3 +13,6 @@ pwd
 
 mv
 : a command that moves files to a different location
+
+rm
+: a command that removes files from the system
