@@ -25,3 +25,7 @@ home directory and ~
 
 file paths in linux
 : file paths are the locations of files on computers
+
+Using the tab key to complete file paths
+: pressing the tab key will fill in the rest of a partially typed command or file name
+
