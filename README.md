@@ -19,3 +19,9 @@ rm
 
 history
 : a command that is used to view the previously executed command
+
+home directory and ~
+: the home directory is where the user stores their files, and ~ is a part of a command that refers to the home directory
+
+file paths in linux
+: file paths are the locations of files on computers
