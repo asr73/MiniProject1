@@ -29,3 +29,6 @@ file paths in linux
 Using the tab key to complete file paths
 : pressing the tab key will fill in the rest of a partially typed command or file name
 
+Using up and down arrow for history
+: up and down keys can be used to view previously executed commands
+
